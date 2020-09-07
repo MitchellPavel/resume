@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Rocky Mountain Natioanl Park",
+    "shortDescription": "Hiking and cycling in RMNP with my wife and her parents.",
+    "longDescription": "We had a ton of fun hiking, and cycling, and hanging out in our AirBnB. My wife summited her first peak inspite of some incredible winds. I got to cycle up Trail Ridge road in the national park.",
+    "tags": [
+      "Hiking",
+      "Colorado"
+    ]
+  },
+  {
+    "title": "Lake Katherine NM",
+    "shortDescription": "Backpacking in New Mexico towards Lake Katherine with my sister and my wife",
+    "longDescription": "We hiked out towards Lake Katherine in New Mexico, but had to stop short because of some deep snow blocking our trail. Instead we set up camp in some beautiful peaceful meadows.",
+    "tags": [
+      "Backpacking",
+      "New Mexico"
+    ]
+  },
+  {
+    "title": "Loveland Skiing",
+    "shortDescription": "Skiing in Loveland Colorado with some wonderful family friends",
+    "longDescription": "My wife and I went with some wonderful family friends of ours to Loveland, Colorado on a ski trip. One of the highlights was getting to ski down from the top of the continental divide.",
+    "tags": [
+      "Skiing",
+      "Colorado"
+    ]
+  },
+  {
+    "title": "Honeymoon",
+    "shortDescription": "My wife and I enjoyed the beach and the state park in Gulf Shores, Alabama",
+    "longDescription": "We spent most of the week relaxing on the beach in Gulf Shores, Alabama, but we also did some adventurous things like rent a jet ski and snorkel in the ocean. The beach and the state park were both beautiful.",
+    "tags": [
+      "Beach",
+      "Alabama"
+    ]
+  },
+  {
+    "title": "Banff Canada",
+    "shortDescription": "Toured the Canadian Rockies with my parents and my sister",
+    "longDescription": "My family and spent time in Banff National Park in Canada hiking and sight seeing. The Candian Rockies are gorgeous and dramatic with some of the most beautiful lakes you could imagine. It's also where my picture at the top of this page was taken.",
+    "tags": [
+      "Hiking",
+      "Canada"
+    ]
+  },
+  {
+    "title": "Backpacking in Arkansas",
+    "shortDescription": "Adventurous trip backpacking in Arkansas",
+    "longDescription": "Not all trips go as planned. While I enjoyed time spent with friends on the trip, the weather caused us lots of trouble. We suffered a freezing night in the wind and rain, and had to wait hours to be rescued by the nearest fire department due to the flooded trail.",
+    "tags": [
+      "Backpacking",
+      "Arkansas"
+    ]
+  },
+  {
+    "title": "Great Smoky Mountain National Park",
+    "shortDescription": "Road trip to the Smoky Mountains",
+    "longDescription": "It was a long drive with me and 11 of my friends from Texas to Tennessee over spring break with a couple fun stops along the way. We enjoyed long hikes and the beautiful scenery of the national park and plenty of time together in our AirBnB.",
+    "tags": [
+      "Hiking",
+      "Tennessee"
+    ]
+  }
+]

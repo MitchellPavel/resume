@@ -1,0 +1,17 @@
+[
+  {
+    "label": "Baseball",
+    "title": "Playing Baseball",
+    "content": "<ul><li>I started playing baseball when I was 7</li><li>In college, I loved playing for the club team at UNT</li><li>Today, I play in the <a href='http://www.dallasmsbl.com/'>North Texas Amateur Baseball League in Dallas</a></li><li>I enjoy the relaxed pace of the game as well as the demand on focus required to play well</li><li>I have many memories playing with close friends and practicing with my dad</li></ul>"
+  },
+  {
+    "label": "Exercise",
+    "title": "I Love to Exercise",
+    "content": "<h4>Running</h4> <ul><li>I enjoy running to push myself and clear my head</li><li>I often listen to podcasts while I run</li><li>My favorite annual race is the <a href='https://www.chosen.care/event/the-prettiest-race-in-texas-half-marathon-5k-benefiting-chosen/'>Chosen half marathon</a></li></ul><h4>Lifting</h4><ul><li>The methodical repetativeness of lifting is really relaxing to me</li><li>Lifiting is more fun with a friend so that we can catch up as we lift together</li></ul><h4>Cycling</h4><ul><li>Cycling is the newest hobby that I've gotten into, thanks to my father-in-law</li><li>I completed a 100k ride and cycled the Trail Ridge Road in Rocky Mountain National Park</li></ul>"
+  },
+  {
+    "label": "Hiking",
+    "title": "Hiking",
+    "content": "<ul><li>My dad took me on my first backpacking trip to Colorado when I was in high school</li><li>I've gone backpacking with friends throughout college and now go with my wife as well</li><li>Backpacking is fun because of the quality time spent with people, the solitude, and the incredible scenery</li><li>I often go to Colorado, but I've also been backpacking in California, Arkansas, New Mexico, and Texas</li></ul>"
+  }
+]

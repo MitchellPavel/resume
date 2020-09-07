@@ -1,0 +1,12 @@
+[
+  {
+    "title": "My Personal Website",
+    "shortDescription": "This website you're looking at here right now!",
+    "longDescription": "I built this website using Svelete.js as the front end with lots of HTML and CSS. It's hosted on AWS and the codebase is stored in GitHub.",
+    "tags": [
+      "JavaScript",
+      "Svelte.js"
+    ],
+    "link": "https://github.com/MitchellPavel/resume"
+  }
+]

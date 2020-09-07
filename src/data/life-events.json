@@ -1,0 +1,42 @@
+[
+  {
+    "date": "December 15, 2019",
+    "location": "Dallas, TX",
+    "title": "Dallas Marathon",
+    "descriptions": [
+      "I completed my first marathon with my good friend and plenty support from other friends and family",
+      "We finished with a time of 4 hours and 36 minutes",
+      "I have plans to run more marathons with aspirations of breaking 4 hours in my next one"
+    ]
+  },
+  {
+    "date": "August 10th 2019",
+    "location": "Flower Mound, TX",
+    "title": "Wedding Day",
+    "descriptions": [
+      "My lovely wife and I were married surrounded by our good friends and family",
+      "We met during college through mutual friends at our church in the summer of 2017",
+      "Our first dance was to \"Forever Like That\" by Ben Rector"
+    ]
+  },
+  {
+    "date": "May 26th 2018",
+    "location": "Denton, TX",
+    "title": "Graduated from the University of North Texas",
+    "descriptions": [
+      "I grduated from the Honors College at UNT with a B.S. in Computer Science, minor in Secondary Education, and a 4.0 GPA",
+      "Outside of school, I was involved in a campus ministry called FOCUS where I met plenty of great friends and my wife",
+      "While at UNT, I also had lots of fun playing baseball for the club team and working out at the gym"
+    ]
+  },
+  {
+    "date": "January 18th 1996",
+    "location": "Plano, TX",
+    "title": "Birthday",
+    "descriptions": [
+      "My wonderful parents raised me and my twin sister",
+      "My parents took us on lots of vacations where I learned to love nature and the outdoors",
+      "We also grew up staying plenty busy with sports, music, and, of course, studying for school"
+    ]
+  }
+]

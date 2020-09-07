@@ -1,0 +1,22 @@
+[
+  {
+    "label": "Computer Science",
+    "title": "Bachelor's of Science in Computer Science",
+    "content":" <ul><li>Graduated from the University of North Texas in May of 2018</li><li>4.0 GPA</li><li>Graduated from the Honor's College</li><li>Mentored research experience comparing Lambda Calculus and Turing Machines</li><li>Relevant Coursework<ul><li>Algorithms and Data Structures</li><li>Software Engineering</li><li>Information Retrieval</li> </ul></li></ul>"
+  },
+  {
+    "label": "AWS",
+    "title": "Amazon Web Services Cerifications",
+    "content": "<p>More coming soon. I am working on the AWS Cloud Practioner's certification now.</p>"
+  },
+  {
+    "label": "Guidewire",
+    "title": "Guidewire Certifications",
+    "content": "<ul><li>Certified in Guidewire Insurance Suite 10.0 Fundamentals</li></ul>"
+  },
+  {
+    "label": "Secondary Education",
+    "title": "Minor in Secondary Education of Computer Science",
+    "content": "<ul><li>Graduated from the University of North Texas in May of 2018</li><li>4.0 GPA</li><li>Graduated from the Honor's College</li><li>Coursework completed through the Teach North Texas Department</li><li>Recieved the outstanding undergraduate in secondary education award in the fall of 2016</li><li>Completed a semester of student teaching where I learned to concisely and effectively communicate complex topics in computer science</li></ul>"
+  }
+]

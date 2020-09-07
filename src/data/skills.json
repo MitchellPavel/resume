@@ -1,0 +1,54 @@
+[
+  {
+    "item": "JavaScript",
+    "rating": 4.9,
+    "reasoning": "Experience: Web applications and UI testing automation"
+  },
+  {
+    "item": "Node.js",
+    "rating": 4.9,
+    "reasoning": "Experience: Runtime for web applications in JavaScript"
+  },
+  {
+    "item": "Express.js",
+    "rating": 4.5,
+    "reasoning": "Experience: My go to framework for backend development of webapps"
+  },
+  {
+    "item": "Groovy",
+    "rating": 4.5,
+    "reasoning": "Experience: CI/CD pipelines on Jenkins"
+  },
+  {
+    "item": "Jenkins",
+    "rating": 4,
+    "reasoning": "Experience: Most familiar automation server for more complex pipelines"
+  },
+  {
+    "item": "Python",
+    "rating": 3.5,
+    "reasoning": "Experience: More complex automation and custom CLI tools"
+  },
+  {
+    "item": "Svlete.js",
+    "rating": 3,
+    "reasoning": "Experience: My go to frontend framework"
+  },
+  {
+    "item": "Clojure",
+    "rating": 2.5,
+    "reasoning": "Experience: My favorite hobby language, see projects section below"
+  },
+  {
+    "item": "Go",
+    "rating": 2
+  },
+  {
+    "item": "Kubernetes",
+    "rating": 2
+  },
+  {
+    "item": "helm",
+    "rating": 2
+  }
+]
