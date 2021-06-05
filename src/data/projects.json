@@ -1,8 +1,49 @@
 [
   {
-    "title": "My Personal Website",
+    "title": "Production Implementation Automation",
+    "shortDescription": "Automated the production deployment of State Farm's policy management system",
+    "longDescription": "I automated the production deployment by orchestrating various implementation tools including Jenkins, Urban Code Deploy, and internal tools using Python, Groovy, and shell scripts.",
+    "tags": [
+      "DevOps",
+      "CI/CD",
+      "Jenkins",
+      "Python"
+    ]
+  }, {
+    "title": "BDD Test Steps Search",
+    "shortDescription": "Easily search through Gherkin steps and drag and drop to build your test case",
+    "longDescription": "SPA React App that allowed user to easily search through Gherkin tags with fuzzy matching and weighted reverse index search",
+    "tags": [
+      "React"
+    ]
+  }, {
+    "title": "CLI Month Calendar",
+    "shortDescription": "Small project to learn GoLang",
+    "longDescription": "CLI in Golang that prints a monthly calendar",
+    "tags": [
+      "Go"
+    ]
+  }, {
+    "title": "Simple Neural Network",
+    "shortDescription": "Simple Neural Network from scratch",
+    "longDescription": "Hand written number recognition from scratch to better understand how neural networks work and learn a little bit of Clojure",
+    "tags": [
+      "machine learning",
+      "Clojure"
+    ]
+  }, {
+    "title": "Allocator Budget App",
+    "shortDescription": "Chance to have fun learning more about Svelte and Firebase",
+    "longDescription": "I was curious to test out Firebase as well as continue to learn more about Svelte so I implemented a basic application to use the main features of Firebase",
+    "tags": [
+      "Firebase",
+      "Svelte.js"
+    ],
+    "link": "https://mp-budget-app.web.app/"
+  }, {
+    "title": "My Resume",
     "shortDescription": "This website you're looking at here right now!",
-    "longDescription": "I built this website using Svelete.js as the front end with lots of HTML and CSS. It's hosted on AWS and the codebase is stored in GitHub.",
+    "longDescription": "I built this website using Svelte.js as the front end with lots of HTML and CSS. The data is stored as JSON files. It's deployed using Surge.sh and the codebase is stored in GitHub.",
     "tags": [
       "JavaScript",
       "Svelte.js"

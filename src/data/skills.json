@@ -1,54 +1,62 @@
 [
   {
     "item": "JavaScript",
-    "rating": 4.9,
-    "reasoning": "Experience: Web applications and UI testing automation"
+    "reasoning": "Experience: Web applications and REST APIs"
   },
   {
     "item": "Node.js",
-    "rating": 4.9,
     "reasoning": "Experience: Runtime for web applications in JavaScript"
   },
   {
     "item": "Express.js",
-    "rating": 4.5,
-    "reasoning": "Experience: My go to framework for backend development of webapps"
+    "reasoning": "Experience: My go to framework for backend web development currently"
   },
   {
     "item": "Groovy",
-    "rating": 4.5,
     "reasoning": "Experience: CI/CD pipelines on Jenkins"
   },
   {
     "item": "Jenkins",
-    "rating": 4,
     "reasoning": "Experience: Most familiar automation server for more complex pipelines"
   },
   {
     "item": "Python",
-    "rating": 3.5,
-    "reasoning": "Experience: More complex automation and custom CLI tools"
+    "reasoning": "Experience: More complex automation and CLI utilities"
   },
   {
-    "item": "Svlete.js",
-    "rating": 3,
-    "reasoning": "Experience: My go to frontend framework"
+    "item": "Java",
+    "reasoning": "Experience: Currently the primary language I use at State Farm for web services"
   },
   {
-    "item": "Clojure",
-    "rating": 2.5,
-    "reasoning": "Experience: My favorite hobby language, see projects section below"
-  },
-  {
-    "item": "Go",
-    "rating": 2
+    "item": "Spring",
+    "reasoning": "Experience: Currently the primary framework for web services"
   },
   {
     "item": "Kubernetes",
-    "rating": 2
+    "reasoning": "Experience: used at work for deploying small internal web services"
   },
   {
-    "item": "helm",
-    "rating": 2
+    "item": "Svelte.js",
+    "reasoning": "Experience: My go to frontend framework"
+  },
+  {
+    "item": "Firebase",
+    "reasoning": "Familiarity: used in personal projects as an easy to use backend"
+  },
+  {
+    "item": "Typescript",
+    "reasoning":"Familiarity: As part of a personal project to enhance dev experience and quality"
+  },
+  {
+    "item": "Go",
+    "reasoning": "Familiarity: Created a CLI with go to learn more about it"
+  },
+  {
+    "item": "AWS",
+    "reasoning": "Familiarity: Studying for the first certification"
+  },
+  {
+    "item": "React",
+    "reasoning": "Familiarity: Previously my front end framework of choice"
   }
 ]

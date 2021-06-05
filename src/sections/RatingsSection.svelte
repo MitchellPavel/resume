@@ -7,7 +7,7 @@
 <section id={$personalMode ? 'favorites' : 'skills'}>
   <h2>{$personalMode ? 'Favorites' : 'Skills'}</h2>
   <ul class=skills-list>
-    {#each ($personalMode ? favorites : skills) as {item, rating, reasoning}}
+    {#each ($personalMode ? favorites : skills) as {item, reasoning}}
       <li class=skill-container>
         <div class=skill>
           <h3>{item}</h3>
@@ -15,7 +15,6 @@
             <p>{reasoning}</p>
           {/if}
         </div>
-        <Rating {rating}/>
       </li>
     {/each}
   </ul>
@@ -44,12 +43,11 @@
 
   .skill-container {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 3fr 1fr;
     min-width: 15em;
+    max-width: 20em;
     height: auto;
   }
 
-  .skill {
-    width: 12em;
-  }
+  .skill { width: 12em; }
 </style>
