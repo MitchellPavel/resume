@@ -28,12 +28,12 @@
     "reasoning": "Experience: Currently the primary language I use at State Farm for web services"
   },
   {
-    "item": "Spring",
-    "reasoning": "Experience: Currently the primary framework for web services"
+    "item": "GitLab CI",
+    "reasoning": "Experience: CI/CD pipelines for projects in GitLab"
   },
   {
     "item": "Kubernetes",
-    "reasoning": "Experience: used at work for deploying small internal web services"
+    "reasoning": "Experience: Deploying small internal web services"
   },
   {
     "item": "Svelte.js",
@@ -45,7 +45,7 @@
   },
   {
     "item": "Typescript",
-    "reasoning":"Familiarity: As part of a personal project to enhance dev experience and quality"
+    "reasoning":"Familiarity: As part of personal projects to enhance dev experience and quality"
   },
   {
     "item": "Go",
@@ -53,7 +53,7 @@
   },
   {
     "item": "AWS",
-    "reasoning": "Familiarity: Studying for the first certification"
+    "reasoning": "Familiarity: Studying for my first certification"
   },
   {
     "item": "React",

@@ -10,9 +10,31 @@
       "Python"
     ]
   }, {
+    "title": "Jenkins Scripts",
+    "shortDescription": "Collection of reusable classes and steps to drastically reduce code maintenance",
+    "longDescription": "By creating more reusable classes, pipeline steps, and scripts I was able to drastically reduce the number of pipelines my team had to maintain from over 300 to fewer than 30",
+    "tags": [
+      "Jenkins",
+      "Groovy"
+    ]
+  }, {
+    "title": "GitLab Metrics Collection",
+    "shortDescription": "Small Node.js web service that runs a cron job to scrape metrics from GitLab's API",
+    "longDescription": "Contributed to a inner source project to create a small Node.js application running on Kubernetes that would run a cron job to scrape custom metrics from GitLab to be collected by Prometheus and displayed on a Grafana dashboard",
+    "tags": [
+      "Node.js",
+      "Kubernetes",
+      "Prometheus",
+      "Grafana"
+    ]
+  }, {
+    "title": "Pipeline Rerun Automation",
+    "shortDescription": "Kubernetes cron job to rerun CI on stale merge requests",
+    "longDescription": "Node.js script that used GitLab's web API to determine old merge requests with passing CI in order to rerun Jenkins CI and prevent stale merge requests from breaking the build"
+  }, {
     "title": "BDD Test Steps Search",
     "shortDescription": "Easily search through Gherkin steps and drag and drop to build your test case",
-    "longDescription": "SPA React App that allowed user to easily search through Gherkin tags with fuzzy matching and weighted reverse index search",
+    "longDescription": "Single page React app that allowed users to easily search through Gherkin tags with fuzzy matching and weighted inverted index search",
     "tags": [
       "React"
     ]
@@ -42,8 +64,8 @@
     "link": "https://mp-budget-app.web.app/"
   }, {
     "title": "My Resume",
-    "shortDescription": "This website you're looking at here right now!",
-    "longDescription": "I built this website using Svelte.js as the front end with lots of HTML and CSS. The data is stored as JSON files. It's deployed using Surge.sh and the codebase is stored in GitHub.",
+    "shortDescription": "This website you're looking at right now!",
+    "longDescription": "I built this website using Svelte.js  end with lots of HTML and CSS. The data is stored in JSON files. It's deployed using Surge.sh and the codebase is stored on GitHub.",
     "tags": [
       "JavaScript",
       "Svelte.js"

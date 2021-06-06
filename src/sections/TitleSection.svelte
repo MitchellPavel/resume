@@ -7,6 +7,11 @@
     <p>Hello, my name is</p>
     <h1>Mitch</h1>
     <h1>Pavel</h1>
+    <p>
+      I love working with others to develop software solutions,<br/>
+      automating complex tasks to make them simpler, <br/>
+      and learning new things.
+    </p>
   </div>
   <div class=profile-pic-container>
     <img id='profile-pic' src='/profile-{$personalMode ? 'personal' : 'professional'}.jpg' alt='My profile'>
