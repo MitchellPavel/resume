@@ -4,7 +4,7 @@
     "location": "State Farm Mutual Insurance Company",
     "title": "Software Developer Level 3",
     "descriptions": [
-      "Develop software using Gosu and Java to run as part of State Farm's policy management system",
+      "Develop software using Gosu, Java, and a variety of other technologies to run as part of State Farm's policy management system",
       "Work with others as part of a DevOps team to own our software product from requirements gathering to delivery",
       "Continually learn about and experiment with new technology to keep up with the software industry"
     ]
@@ -14,9 +14,9 @@
     "location": "State Farm Mutual Insurance Company",
     "title": "Software Developer Level 2",
     "descriptions": [
-      "Worked with leadership and architecture to desgin complex solutions to large scale software management problems",
+      "Worked with leadership and architecture to design complex solutions to large scale software management problems",
       "Developed automation tools and pipelines for continuous integration and continuous delivery of software",
-      "Set direction for testing and development best practices accross multiple release trains of over 40 total development teams"
+      "Set direction for testing and development best practices across multiple release trains of over 40 total development teams"
     ]
   },
   {
@@ -33,7 +33,7 @@
     "location": "State Farm Mutual Insurance Company",
     "title": "Systems Intern",
     "descriptions": [
-      "Developed search engine using a weighted reverse index in Node.js to catalog tests",
+      "Developed search engine using a weighted inverted index in Node.js to catalog tests",
       "Created single page application with React JS to assist developers in writing tests",
       "Led weekly meetings with managers and stakeholders to present progress for each agile sprint"
     ]
