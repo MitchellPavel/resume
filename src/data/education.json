@@ -7,7 +7,7 @@
   {
     "label": "AWS",
     "title": "Amazon Web Services Cerifications",
-    "content": "<p>More coming soon. I am working on the AWS Cloud Practioner's certification now.</p>"
+    "content": "<div style= 'display: flex; height: 4em;'><img height= '100%' src= '/aws-certified-cloud-practitioner.png' alt= 'aws certified cloud practitioner badge'/><div style= 'padding: 1em;'><p>AWS Certified Cloud Practitioner</p><a target= '_blank' rel= 'noopener noreferrer' style= 'text-decoration: none; font-size: smaller;' href= 'https://www.credly.com/badges/bbe5dedb-fff4-4644-94d1-48cef72812f6/embedded'><small>Issuer: Amazon Web Services Training and Certification</small></a></div></div>"
   },
   {
     "label": "Guidewire",
